@@ -3,3 +3,38 @@
     border: 0;
     padding: 0;
 }
+
+.fontstyle{
+  background-color:#293F50 ;
+  font-family:"Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #648880;
+}
+
+.backgroundcolor{
+ background-color: #293F50;
+ padding: 5%; 
+}
+
+.heading{
+  float: left;
+  font-size: 40px;
+  padding-left: 7%;
+  font-weight: 80;
+  color: #fff;
+}
+
+.navbar{
+  padding-left: 20%;
+}
+.navlink{
+  display: inline;
+  padding: 0px 10px;
+  padding-left: 1.5%;
+  color: #fff;
+  padding-left: 1%;
+}
+
+.August{
+  margin-bottom: 2%;
+  padding-left: 40%;
+}
