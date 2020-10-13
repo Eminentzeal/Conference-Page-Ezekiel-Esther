@@ -1,5 +1,51 @@
 * {
     margin: 0;
-    border: 0;
     padding: 0;
+    border: 0;
+}
+.body {
+    background:  #293F50;
+    font-family: 'Lato', sans-serif, "Open Sans", "Helvetica Neue", Helvetica, Arial;
+}
+.header {
+    color: white;
+    padding: 0% 20% 5% 16.5%
+}
+.heading {
+    padding: 10% 0 10% 0;
+    float: left;
+    font-weight: 400;
+    font-size: 300%;
+    line-height: 90%;
+}
+.date {
+    padding: 13% 0px 3.5%;
+    text-align: right;
+    font-size: 100%;
+    font-weight: normal;
+    color: #888;
+}
+.nav {
+    text-align: right;
+}
+.nav {
+    list-style: none;
+    font-size: 70%;
+    font-weight: 100%;
+
+}
+.lis {
+    margin-left: 5%;
+    display: inline-flex;
+    text-align: right;
+}
+.section {
+    background: linear-gradient(to right, rgb(161, 211, 176), rgb(246, 241, 211));
+    text-align: center;
+    padding: 5% 22% 4% 22%;
+    color: #888;
+}
+.venue {
+    font-size: 200%;
+    padding-bottom: 3%;
 }
