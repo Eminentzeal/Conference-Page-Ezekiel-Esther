@@ -4,11 +4,10 @@
     padding: 0;
 }
 
-.fontstyle{
+.bodyparent{
   background-color:#293F50 ;
   font-family:"Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #648880;
-  max-width: auto;
 }
 
 .parent{
@@ -85,7 +84,7 @@
   padding-right: 27%;
 }
 
-.children{
+.parent1{
   margin: 3%;
 }
 
