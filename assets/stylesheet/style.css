@@ -10,17 +10,26 @@
   color: #648880;
 }
 
-.backgroundcolor{
- background-color: #293F50;
- padding: 5%; 
+.parent{
+  padding-bottom: 5%;
+  margin: 2%;
+  padding-left: 10%;
+}
+
+.theheading{
+  margin-bottom: 2%;
 }
 
 .heading{
   float: left;
-  font-size: 40px;
-  padding-left: 7%;
-  font-weight: 80;
+  font-size: 230%;
+  padding-left:18%;
+  font-weight: 100;
   color: #fff;
+}
+
+.style{
+  padding-right: 5%;
 }
 
 .navbar{
@@ -36,5 +45,57 @@
 
 .August{
   margin-bottom: 2%;
-  
 }
+
+.buildingwebsite{
+  text-align: center;
+}
+
+.buildwebsite{
+  font-size: 24px;
+}
+
+.buildwebsite1{
+  color: #fff;
+  padding: 0.5%;
+}
+
+.registerbutton{
+  background-color: #293F50;
+  color: #fff;
+  border-radius: 5%;
+  padding: 1%;
+  text-align: center;
+  border: groove;
+  text-transform: uppercase;
+  margin-left: 45%;
+  margin-top: 1%;
+  margin-bottom: 2%;
+}
+
+.body{
+  background-color: #fff;
+}
+
+.speaker{
+  margin-top: 2%;
+padding: 3%;
+}
+
+.speakerimg{
+  border-radius: 7%;
+  margin-bottom: 3%;
+}
+
+.nav1{
+  padding: 5%;
+  margin-left: 40%;
+}
+.footer-nav{
+  display: inline;
+  padding: 0px 10px;
+  padding-left: 1.5%;
+  color: #fff;
+}
+
+
