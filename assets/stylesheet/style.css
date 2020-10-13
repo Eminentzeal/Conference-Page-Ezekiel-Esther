@@ -4,6 +4,7 @@
     border: 0;
 }
 .body {
+  font-style: lato;
     background:  #293F50;
     font-family: 'Lato', sans-serif, "Open Sans", "Helvetica Neue", Helvetica, Arial;
 }
@@ -22,16 +23,17 @@
     padding: 13% 0px 3.5%;
     text-align: right;
     font-size: 100%;
-    font-weight: normal;
     color: #888;
 }
 .nav {
     text-align: right;
+  font-size: 95%;
+
 }
 .nav {
-    list-style: none;
-    font-size: 70%;
-    font-weight: 100%;
+  list-style: none;
+  font-size: 90%;
+  font-weight: 500;
 
 }
 .lis {
@@ -49,18 +51,52 @@
     font-size: 200%;
     padding-bottom: 3%;  
 }
-.se {
-    display: grid;
+.parent-location-details {
+  background-color: #fff;
+  padding-left: 10%;
+  color: #888;
+  padding-bottom: 5%;
+  
 }
-.flex {
+.first-location {
     display: flex;
     background-color: white;
 }
-.map-address {
-    padding: 0% 5% 0% 8%;
-    color: #888;
-    width: 30%;
+.first-map-address{
+  margin: 5% 18% 15% 0%;
 }
-/* .maps {
-    
-} */
+.location-name {
+  padding-bottom: 10%;
+}
+.location-address {
+  padding-bottom: 15%;
+}
+.iframe {
+  padding-top: 15%;
+  width: 200%;
+  height: 80%;
+}
+.second-map-address {
+  margin: 5% 21% 15% 0%;
+}
+.footer-navbar{
+  text-align: right;
+  color: #888;
+  text-align: right;
+  color: #888;
+  padding: 4% 10% 4% 10%;
+}
+.footer-nav {
+  list-style: none;
+  font-size: 90%;
+  font-weight: 500;
+}
+.footer-nav-link {
+  margin-left: 5%;
+  display: inline-flex;
+  text-align: right;
+  color: #fff;
+}
+.copywrite {
+  float: left;
+}
