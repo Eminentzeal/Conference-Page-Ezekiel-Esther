@@ -8,6 +8,7 @@
   background-color:#293F50 ;
   font-family:"Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #648880;
+  max-width: auto;
 }
 
 .parent{
@@ -24,6 +25,7 @@
   float: left;
   font-size: 230%;
   padding-left:18%;
+  padding-right: 2%;
   font-weight: 100;
   color: #fff;
 }
@@ -37,25 +39,28 @@
 }
 .navlink{
   display: inline;
-  padding: 0px 10px;
-  padding-left: 1.5%;
+  padding: 0px 7px;
+  padding-left: 2%;
+  margin-left: 3%;
   color: #fff;
-  padding-left: 1%;
 }
 
 .August{
   margin-bottom: 2%;
+  padding-left: 58%;
 }
 
 .buildingwebsite{
   text-align: center;
+  margin-left: 8%;
 }
 
 .buildwebsite{
-  font-size: 24px;
+  font-size: 27px;
 }
 
 .buildwebsite1{
+  font-size: 18px;
   color: #fff;
   padding: 0.5%;
 }
@@ -68,33 +73,56 @@
   text-align: center;
   border: groove;
   text-transform: uppercase;
-  margin-left: 45%;
+  margin-left: 49%;
   margin-top: 1%;
   margin-bottom: 2%;
 }
 
-.body{
+.parentcontainer{
   background-color: #fff;
+  display: flex;
+  padding-left: 27%;
+  padding-right: 27%;
 }
 
-.speaker{
-  margin-top: 2%;
-padding: 3%;
+.children{
+  margin: 3%;
 }
 
-.speakerimg{
-  border-radius: 7%;
-  margin-bottom: 3%;
+.child1{
+  margin-right: 5%;
+}
+
+.chiid2{
+  margin-left: 5%;
+}
+.title1,
+.title{
+  margin-bottom: 8%;
+  margin-top: 4%;
+}
+
+.img{
+  max-width: 230px;
+  border-radius: 2%;
+}
+.navbar1{
+  text-align: right;
+  padding: 4% 10% 4% 10%;
+}
+.copywrite{
+  float: left;
 }
 
 .nav1{
-  padding: 5%;
-  margin-left: 40%;
+  list-style: none;
+  font-size: 90%;
+  font-weight: 500;
 }
+
 .footer-nav{
-  display: inline;
-  padding: 0px 10px;
-  padding-left: 1.5%;
+  display: inline-flex;
+  margin-left: 5%;
   color: #fff;
 }
 
