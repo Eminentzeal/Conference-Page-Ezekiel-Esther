@@ -49,3 +49,21 @@
     font-size: 200%;
     padding-bottom: 3%;
 }
+.footer-navbar{
+  color: #888;
+  text-align: right;
+  padding: 4% 10% 4% 10%;
+}
+.footer-nav {
+  list-style: none;
+  font-size: 90%;
+  font-weight: 500;
+}
+.footer-nav-link {
+  margin-left: 5%;
+  display: inline-flex;
+  color: #fff;
+}
+.copywrite {
+  float: left;
+}
