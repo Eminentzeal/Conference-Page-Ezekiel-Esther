@@ -80,10 +80,8 @@
   margin: 5% 21% 15% 0%;
 }
 .footer-navbar{
-  text-align: right;
   color: #888;
   text-align: right;
-  color: #888;
   padding: 4% 10% 4% 10%;
 }
 .footer-nav {
@@ -94,7 +92,6 @@
 .footer-nav-link {
   margin-left: 5%;
   display: inline-flex;
-  text-align: right;
   color: #fff;
 }
 .copywrite {
