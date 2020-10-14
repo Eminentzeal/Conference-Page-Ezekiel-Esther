@@ -5,8 +5,7 @@
 }
 .parent{
   padding-bottom: 5%;
-  margin: 2%;
-  padding-left: 10%;
+  margin-right: 5%;
 }
 @keyframes BackgroundGradient {
   0% {background-position: 0% 50%;}
@@ -23,11 +22,12 @@
 }
 .heading{
   float: left;
-  font-size: 230%;
+  font-size: 350%;
   padding-left:18%;
   padding-right: 2%;
   font-weight: 100;
   color: #fff;
+  line-height: 90%;
 }
 .heading:hover{
   color: #648880;
@@ -36,18 +36,13 @@
 .style{
   padding-right: 5%;
 }
-.navbar{
-  padding-left: 20%;
-}
-.nav {
-  margin-left: 39%;
-}
 .navlink{
   display: inline;
   padding: 0px 7px;
-  padding-left: 2%;
-  margin-left: 3%;
   color: #fff;
+}
+.nav {
+  padding-left: 71.5%;
 }
 .navlink:hover{
   color: #648880;
@@ -55,17 +50,17 @@
 }
 .August{
   margin-bottom: 2%;
-  padding-left: 58%;
+  padding-top: 2%;
+  padding-left: 70%;
 }
 .buildingwebsite{
   text-align: center;
-  margin-left: 8%;
 }
 .buildwebsite{
-  font-size: 27px;
+  font-size: 230%;
 }
 .buildwebsite1{
-  font-size: 22px;
+  font-size: 155%;
   color: #fff;
   padding: 0.5%;
   font-weight: 100;
@@ -75,8 +70,8 @@
   color: #fff;
   border-radius: 5px;
   border: 1px solid #fff;
-  padding: 1%;
-  margin: 1% 0% 2% 49%;
+  padding: 1.5%;
+  margin: 1% 0% 2% 46%;
   transition: 100ms;
   overflow: hidden;
 }
@@ -88,11 +83,12 @@
 .parentcontainer{
   background-color: #fff;
   display: flex;
-  padding-left: 27%;
+  padding-left:17%;
   padding-right: 27%;
 }
 .parent1{
-  margin: 3%;
+  font-weight: 300;
+  margin: 2%;
 }
 .child1{
   margin-right: 5%;
@@ -110,7 +106,7 @@
     cursor: pointer;
 }
 .img{
-  max-width: 230px;
+  max-width: 300px;
   border-radius: 2%;
 }
 .img:hover{
@@ -118,19 +114,20 @@
 }
 .navbar1{
   text-align: right;
-  padding: 4% 10% 4% 10%;
+  padding: 2.8% 7% 2.8% 18%;
 }
 .copywrite{
   float: left;
 }
 .nav1{
   list-style: none;
+  padding-right: 16%;
   font-size: 90%;
   font-weight: 500;
 }
 .footer-nav{
   display: inline-flex;
-  margin-left: 5%;
+  margin-left: 3%;
   color: #fff;
 }
 .footer-nav:hover {
