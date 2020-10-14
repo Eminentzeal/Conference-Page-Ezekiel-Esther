@@ -1,9 +1,9 @@
 # About The Project
-This is a classwork, about designing web page.
+This project is about creating a conference website, it provides information about registration, the venue, and the registration process.
 
 ## 
 # Image
-![welcome interface.](./asset/images/rea.png) "This is the Home web page")
+![welcome interface.](/assets/images/rea.png) "This is the Home web page")
 
 # Built With
 * CSS
@@ -34,7 +34,7 @@ This is a classwork, about designing web page.
     * https://www.linkedin.com/company/michub/
 
 # Live Demo
-[See project live here] (https://raw.githack.com/Esther94/Homepage/css-branch/index.html)
+[See project live here] (https://github.com/Eminentzeal/Conference-Page-Ezekiel-Esther/blob/homepage/index.html)
 
 # 🤝 Contributions
 * This project is open to your comments and contributions, kindly reach the author through the above author's social media handles.
