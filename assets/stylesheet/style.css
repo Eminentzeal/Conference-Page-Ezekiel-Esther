@@ -11,7 +11,7 @@
   padding: 0% 20% 5% 16.5%;
   background: linear-gradient(120deg, #293F50, #648880, rgb(43, 51, 43));
   background-size: 400% 400%;
-  animation: BackgroundGradient 30s ease infinite;
+  animation: BackgroundGradient 30s ease-in-out infinite;
   color: white;
 }
 .heading {
@@ -39,11 +39,13 @@
     display: inline-flex;
     text-align: right;
 }
-.section {
-    background: linear-gradient(to right, rgb(161, 211, 176), rgb(246, 241, 211));
-    text-align: center;
-    padding: 5% 22% 4% 22%;
-    color: #888;
+.section-venue {
+  background: linear-gradient(130deg, #f6f1d3, #a1d3b0);
+  background-size: 400% 400%;
+  animation: BackgroundGradient 30s ease infinite;
+  color: #888;
+  text-align: center;
+  padding: 5% 22% 4% 22%; 
 }
 .venue {
     font-size: 200%;
