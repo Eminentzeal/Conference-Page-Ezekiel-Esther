@@ -1,6 +1,9 @@
 .body {
-    background:  #293F50;
-    font-family: 'Lato', sans-serif, "Open Sans", "Helvetica Neue", Helvetica, Arial;
+  background:  #293F50;
+  font-family: 'Lato', sans-serif, "Open Sans", "Helvetica Neue", Helvetica, Arial;
+  background: linear-gradient(120deg, #293F50, #648880, rgb(43, 51, 43));
+  background-size: 400% 400%;
+  animation: BackgroundGradient 30s ease-in-out infinite;
 }
 @keyframes BackgroundGradient {
   0% {background-position: 0% 50%;}
@@ -9,9 +12,7 @@
 }
 .header {
   padding: 0% 20% 5% 16.5%;
-  background: linear-gradient(120deg, #293F50, #648880, rgb(43, 51, 43));
-  background-size: 400% 400%;
-  animation: BackgroundGradient 30s ease-in-out infinite;
+  
   color: white;
 }
 .heading {
