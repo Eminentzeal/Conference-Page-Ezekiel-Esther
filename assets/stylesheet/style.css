@@ -3,6 +3,9 @@
   font-family:"Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #648880;
 }
+a {
+  /* color: #fff; */
+}
 .parent{
   padding-bottom: 5%;
   margin-right: 5%;
