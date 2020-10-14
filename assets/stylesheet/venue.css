@@ -12,7 +12,6 @@
 }
 .header {
   padding: 0% 20% 3% 16.5%;
-  
   color: white;
 }
 .heading {
@@ -72,9 +71,6 @@
   color: #888;
   padding-bottom: 5%;
 }
-a {
-  color: #648880;
-}
 a:hover {
   color: #8ac7ba;
 }
@@ -93,6 +89,9 @@ a:active {
 }
 .location-address {
   padding-bottom: 15%;
+}
+.location-link {
+  text-decoration: underline;
 }
 .iframe {
   padding-top: 15%;

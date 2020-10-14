@@ -3,9 +3,6 @@
   font-family:"Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #648880;
 }
-a {
-  /* color: #fff; */
-}
 .parent{
   padding-bottom: 5%;
   margin-right: 5%;
@@ -61,6 +58,7 @@ a {
 }
 .buildwebsite{
   font-size: 230%;
+  color: #648880;
 }
 .buildwebsite1{
   font-size: 155%;
@@ -80,7 +78,7 @@ a {
 }
 .registerbutton:hover{
   background-color: #fff;
-  color: #293F50;
+  color: #648880;
   cursor: pointer;
 }
 .parentcontainer{
