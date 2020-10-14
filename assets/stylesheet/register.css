@@ -90,6 +90,7 @@ font-size: 95%;
 }
 .input-title {
   width: 150%;
+  cursor: pointer;
 }
 .select {
   width: 50%;
@@ -113,8 +114,9 @@ font-size: 95%;
   border-radius: 5px;
 }
 .button:hover {
-  background-color:#94d1c4;
+  background-color: #769e95;
   transition: 10ms;
+  cursor: pointer;
 }
 .footer-navbar{
   color: #888;
