@@ -11,19 +11,23 @@
   100% {background-position: 0% 50%;}
 }
 .header {
-  padding: 0% 20% 5% 16.5%;
+  padding: 0% 20% 3% 16.5%;
   
   color: white;
 }
 .heading {
-    padding: 10% 0 10% 0;
+    padding: 5% 0 10% 0;
     float: left;
     font-weight: 400;
     font-size: 300%;
     line-height: 90%;
 }
+.heading:hover {
+  color: #648880;
+  cursor: pointer;
+}
 .date {
-    padding: 13% 0px 3.5%;
+    padding: 8% 0px 3.5%;
     text-align: right;
     font-size: 100%;
     color: #888;
@@ -40,24 +44,42 @@
     display: inline-flex;
     text-align: right;
 }
+.lis:hover {
+  color: #648880;
+  cursor: pointer;
+}
 .section-venue {
   background: linear-gradient(130deg, #f6f1d3, #a1d3b0);
   background-size: 400% 400%;
   animation: BackgroundGradient 30s ease infinite;
   color: #888;
   text-align: center;
-  padding: 5% 22% 4% 22%; 
+  padding: 3% 19% 3% 19%;
 }
 .venue {
-    font-size: 200%;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 45px;
     padding-bottom: 3%;  
+}
+.venue-para {
+  font-size: 20px;
+  line-height: 32px
 }
 .parent-location-details {
   background-color: #fff;
   padding-left: 10%;
   color: #888;
   padding-bottom: 5%;
-  
+}
+a {
+  color: #648880;
+}
+a:hover {
+  color: #8ac7ba;
+}
+a:active {
+  color: rgb(87, 87, 156);
 }
 .first-location {
     display: flex;
@@ -97,4 +119,8 @@
 }
 .copywrite {
   float: left;
+}
+.footer-nav-link:hover {
+  cursor: pointer;
+  color: #648880;
 }
