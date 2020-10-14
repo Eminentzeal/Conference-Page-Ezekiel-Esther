@@ -11,7 +11,7 @@
   padding: 0% 20% 5% 16.5%;
   background: linear-gradient(120deg, #293F50, #648880, rgb(43, 51, 43));
   background-size: 400% 400%;
-  animation: BackgroundGradient 30s ease infinite;
+  animation: BackgroundGradient 30s ease-in-out infinite;
   color: white;
 }
 .heading {
