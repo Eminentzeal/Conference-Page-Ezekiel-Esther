@@ -22,7 +22,7 @@
         </nav>
     </header>
     <main>
-        <section class="section">
+        <section class="section-register">
             <h4 class="register">Register</h4>
             <p>Every year we aim to have an unbelievable time, and this year we'd love it for you to join us. Conference passes only cost $99, one of the best values you'll find.</p>
         </section>
@@ -41,11 +41,11 @@
             </section>
             <form class="form">
                     <h5 class="input-title">Name</h5>
-                    <input class="input" type="text" name="name" placeholder="Full Name" required>
+                    <input class="input" id="yourName" type="text" name="name" placeholder="Full Name" required>
                     <h5 class="input-title">Email</h5>
-                    <input class="input" type="email" name="email" placeholder="Email Address" required>
+                    <input class="input" id="yourEmail" type="email" name="email" placeholder="Email Address" required>
                     <h5 class="input-title">Number of Passes</h5>
-                        <select class="select">
+                        <select required class="select">
                             <option value="1" selected>1</option>
                             <option value="2">2</option>
                             <option value="3">3</option>
@@ -69,6 +69,6 @@
        </ul>
      </nav>
 </footer>
-
+<script src="..//assets/javascript/app.js"></script>
 </body>
 </html>
