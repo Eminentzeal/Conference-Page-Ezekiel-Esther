@@ -1,7 +1,7 @@
 .body {
   background:  #293F50;
   font-family: 'Lato', sans-serif, "Open Sans", "Helvetica Neue", Helvetica, Arial;
-  background: linear-gradient(120deg, #293F50, #648880, rgb(43, 51, 43));
+  background: linear-gradient(120deg, #293F50, #1c2127);
   background-size: 400% 400%;
   animation: BackgroundGradient 30s ease-in-out infinite;
 }

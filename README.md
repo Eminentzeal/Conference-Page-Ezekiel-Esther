@@ -23,11 +23,12 @@ This project is about creating a conference website, it provides information abo
 * [Godwin Nwachukwu](https://github.com/Gnwin).
 
 * [Chioma Nwachukwu](https://github.com/Chiomy).
+* [Tim Chosen](www.twitter.com/timchosen)
 
 # Acknowledgements
 * HomeFrontStartup
     * http://homefrontstartup.com.ng/
-* Mentors International
+    * Mentors International
     * https://mentorsint.com/
     * https://www.facebook.com/mentorshubyola/
     * https://twitter.com/hub_mic
