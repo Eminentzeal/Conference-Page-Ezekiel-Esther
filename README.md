@@ -34,7 +34,7 @@ This project is about creating a conference website, it provides information abo
     * https://www.linkedin.com/company/michub/
 
 # Live Demo
-[See project live here] (https://github.com/Eminentzeal/Conference-Page-Ezekiel-Esther/blob/homepage/index.html)
+[See project live here] (https://raw.githack.com/Eminentzeal/Conference-Page-Ezekiel-Esther/homepage/index.html)
 
 # 🤝 Contributions
 * This project is open to your comments and contributions, kindly reach the author through the above author's social media handles.
