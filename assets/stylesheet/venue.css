@@ -53,13 +53,13 @@
   animation: BackgroundGradient 30s ease infinite;
   color: #888;
   text-align: center;
-  padding: 3% 19% 3% 19%;
+  padding: 5% 18% 4% 18%;
 }
 .venue {
     font-size: 40px;
     font-weight: 400;
     line-height: 45px;
-    padding-bottom: 3%;  
+    padding: 0% 5% 3% 0%;
 }
 .venue-para {
   font-size: 20px;
