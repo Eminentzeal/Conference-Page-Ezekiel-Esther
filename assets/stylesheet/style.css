@@ -78,6 +78,7 @@
 }
 .registerbutton:hover{
   background-color: #fff;
+  max-width: 100%;
   color: #648880;
   cursor: pointer;
 }
@@ -134,4 +135,9 @@
 .footer-nav:hover {
   cursor: pointer;
   color: #648880;
+}
+@media (max-width:600px) {
+  .bodyparent{
+    background-color:#97df13 ;
+  }
 }
