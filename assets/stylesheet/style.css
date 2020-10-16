@@ -84,19 +84,14 @@
 }
 .parentcontainer{
   background-color: #fff;
+  width: fit-content;
   display: flex;
   padding-left:17%;
   padding-right: 27%;
 }
 .parent1{
-  font-weight: 300;
+  font-weight: 300px;
   margin: 2%;
-}
-.child1{
-  margin-right: 5%;
-}
-.chiid2{
-  margin-left: 5%;
 }
 .title1,
 .title{
@@ -138,6 +133,6 @@
 }
 @media (max-width:600px) {
   .bodyparent{
-    background-color:#97df13 ;
+    background-color:cyan;
   }
 }
