@@ -6,7 +6,7 @@ This project is about creating a conference website provides information about t
 
 
 ## Image
-![welcome interface.](/assets/images/rea.png) "This is the Home web page")
+![welcome interface.](/assets/images/rea.jpg) "This is the Home web page")
 
 ## Built With
 * CSS
