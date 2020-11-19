@@ -37,9 +37,9 @@ This project is about creating a conference website provides information about t
   * https://www.linkedin.com/company/michub/
 
 ## Live Demo
-[Click Here to see project live](https://raw.githack.com/Eminentzeal/Conference-Page-Ezekiel-Esther/main/index.html)
+[Click Here to see project live](https://ezekiel-esther-conference-page.netlify.app/)
 
 # 🤝 Contributions
 * This project is open to your comments and contributions, kindly reach the author through the above author's social media handles.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f58266fe-4a0b-473b-a09c-03ffa1b77cf3/deploy-status)](https://app.netlify.com/sites/eminentezekiel/deploys)
+[![Netlify Status]([![Netlify Status](https://api.netlify.com/api/v1/badges/8f87de29-eeaf-43f8-952b-719f390f390c/deploy-status)](https://app.netlify.com/sites/ezekiel-esther-conference-page/deploys))
