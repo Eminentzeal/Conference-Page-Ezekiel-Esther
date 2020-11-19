@@ -30,7 +30,7 @@ This project is about creating a conference website provides information about t
 ## Acknowledgements
 * HomeFrontStartup
   * http://homefrontstartup.com.ng/
-  * Mentors International
+* Mentors International
   * https://mentorsint.com/
   * https://www.facebook.com/mentorshubyola/
   * https://twitter.com/hub_mic
@@ -41,3 +41,5 @@ This project is about creating a conference website provides information about t
 
 # 🤝 Contributions
 * This project is open to your comments and contributions, kindly reach the author through the above author's social media handles.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f58266fe-4a0b-473b-a09c-03ffa1b77cf3/deploy-status)](https://app.netlify.com/sites/eminentezekiel/deploys)
