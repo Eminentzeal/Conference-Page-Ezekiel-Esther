@@ -42,4 +42,4 @@ This project is about creating a conference website provides information about t
 # 🤝 Contributions
 * This project is open to your comments and contributions, kindly reach the author through the above author's social media handles.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8f87de29-eeaf-43f8-952b-719f390f390c/deploy-status)](https://app.netlify.com/sites/ezekiel-esther-conference-page/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8f87de29-eeaf-43f8-952b-719f390f390c/deploy-status)](https://app.netlify.com/sites/ezekiel-esther-conference-page/deploys))
