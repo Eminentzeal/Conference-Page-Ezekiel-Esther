@@ -1,5 +1,4 @@
-#
-Conference Page
+# Conference Page
 
 ## About The Project
 This project is about creating a conference website provides information about the conference, the venue of the conference, the registration process and a registration form.
